@@ -4,7 +4,8 @@ Developing programs using C that leverage Windows APIs to perform specific funct
 
 <br>
 
-### 1. Example
+### 1. Basic
+> Description of functionality is given
 - [#1](https://github.com/by-roj/24_Windows-API/blob/main/%231.md)
 - [#2](https://github.com/by-roj/24_Windows-API/blob/main/%232.md)
 - [#3](https://github.com/by-roj/24_Windows-API/blob/main/%233.md)
@@ -18,3 +19,8 @@ Developing programs using C that leverage Windows APIs to perform specific funct
 - [#11](https://github.com/by-roj/24_Windows-API/blob/main/%2311.md)
 - [#12](https://github.com/by-roj/24_Windows-API/blob/main/%2312.md)
 - [#13](https://github.com/by-roj/24_Windows-API/blob/main/%2313.md)
+
+<br>
+
+### 2. Advanced
+> Need to analyze the given program and guess the function
